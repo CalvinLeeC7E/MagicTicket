@@ -7,6 +7,7 @@ Interface for any contract that wants to check someone hold ERC20 or value.
 |  Chain   | Address                                    |
 |:--------:|--------------------------------------------|
 | smartBCH | 0x99Cb69b9aB7A2241e9746E8095E86Fc349BAA6ad |
+| polygon  | 0x2a3d16f391f26c4c14A253F95E75210aeb7503C2 |
 
 
 ## ErrorCode

@@ -10,6 +10,10 @@ Interface for any contract that wants to check someone hold ERC20 or value.
 | polygon  | 0x2a3d16f391f26c4c14A253F95E75210aeb7503C2 |
 
 
+## Reference Doc
+
+* [Solidity Interface](https://solidity-by-example.org/interface/)
+
 ## ErrorCode
 
 | Code | Mess                            |
